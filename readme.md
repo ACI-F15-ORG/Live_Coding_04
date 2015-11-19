@@ -10,7 +10,7 @@
 
 #### 1. Learn an IDE
 
-Pick one of the demo'd live coding environments to learn and use. It can be a text based (Supercollider) or patching based (Pure Data) IDE. You can decide to perform solo or as a group. Practice!
+Pick a live coding environments to learn and use. It can be a text based (Supercollider) or patching based (Pure Data) IDE. You can decide to perform solo or as a group. Practice!
 
 #### 2. Live Code
 
