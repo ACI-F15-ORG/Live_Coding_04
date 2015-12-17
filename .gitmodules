@@ -1,0 +1,3 @@
+[submodule "zaran"]
+	path = zaran
+	url = https://github.com/zlalvani/draw-sound-js.git
