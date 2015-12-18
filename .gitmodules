@@ -4,3 +4,6 @@
 [submodule "hul6"]
 	path = hul6
 	url = https://github.com/Kirstihly/ACI_Final.git
+[submodule "kevinkortright"]
+	path = kevinkortright
+	url = https://github.com/sirkevin813/LiveCodingACI.git
